@@ -1,0 +1,6 @@
+
+Wandb link:
+
+https://api.wandb.ai/links/jiyuxuan0918-university-of-technology-sydney/vl789byz
+
+This is a visual display of LSTM training in wandb, where we use hyperparameter tuning. It was run for three days with the help of UTS's IHPC and over seven hundred models were trained. And sorted by Test_accurrcy to get the best performing model.
